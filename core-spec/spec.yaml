@@ -1,4 +1,5 @@
 # OSI - Core Metadata Spec (YAML Schema)
+# DRAFT version - in development, schema may change before 0.2.0 is released
 version: 0.2.0.dev0
 # 
 # Goals:

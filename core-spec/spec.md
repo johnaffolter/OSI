@@ -1,5 +1,7 @@
 # OSI - Core Metadata Specification
 
+> **DRAFT version** — in development, schema may change before 0.2.0 is released.
+
 **Version:** 0.2.0.dev0
 
 ## Goals
