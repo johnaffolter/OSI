@@ -7,7 +7,7 @@ Join the community on Slack: [join.slack.com/t/opensemanticx](https://join.slack
 | | |
 |---|---|
 | **Lead** | Will Pugh |
-| **Slack channel** | `#wg-metric-language` |
+| **Slack channel** | `#metric-language-working-group` |
 | **Google Calendar** | _link TBD_ |
 
 ## 2. Composability
@@ -31,7 +31,7 @@ Join the community on Slack: [join.slack.com/t/opensemanticx](https://join.slack
 | | |
 |---|---|
 | **Lead** | Kurt (Relational AI) |
-| **Slack channel** | `#wg-ontology` |
+| **Slack channel** | `#osi-ontology` |
 | **Google Calendar** | _link TBD_ |
 
 ## 5. Sync API
