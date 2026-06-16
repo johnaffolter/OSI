@@ -21,6 +21,4 @@ OSI provides a single JSON- and YAML-based specification that any tool can read 
 
 # License
 
-All code in this repository is licensed under the Apache 2.0 license.
-
-The specification and documentation is licensed under the Creative Commons Attribution license (CC BY).
+All content in this repository — including code, specification, and documentation — is licensed under the [Apache License 2.0](LICENSE).
